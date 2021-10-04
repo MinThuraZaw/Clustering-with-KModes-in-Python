@@ -1,2 +1,2 @@
 # About
-## In development stage
+## Still in progress. Coming soon!
