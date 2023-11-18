@@ -1,8 +1,9 @@
-# About
+### About
 Clustering with adult income dataset using KModes algorithm.
 
+<br>
 
-# Requirements
+### Requirements
 
 **Languages**
 * Python 3
@@ -13,7 +14,10 @@ Clustering with adult income dataset using KModes algorithm.
 * Numpy
 * Matplotlib
 
-# Development Steps
+  
+<br>
+
+### Development Steps
 1) Get the dataset (https://www.kaggle.com/wenruliu/adult-income-dataset).
 2) Preparing data to get all categorical columns for KModes.
 3) Use one hot encoding.
